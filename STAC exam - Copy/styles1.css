@@ -1,0 +1,45 @@
+h1{
+  font-family: courier;
+text-align: center;
+}
+body{
+background-image: url("http://theartmad.com/wp-content/uploads/Grey-Gradient-Background-2.jpg");
+background-repeat: no-repeat;
+font-family: serif;
+
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul{
+  position: fixed;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  overflow: hidden;
+  background-color: #A4A4A4
+} /
+<!--References W3schools.com,. 'CSS Navigation Bar'. N.p., 2015. Web. 9 Dec. 2015.-->
+li{
+  float: left;
+}
+li a {
+display: block;
+color: black;
+text-align: left;
+padding: 14px 16px;
+text-decoration: none;
+} //References W3schools.com,. 'CSS Navigation Bar'. N.p., 2015. Web. 9 Dec. 2015.
+
+li a:hover {
+  background-color: #111;
+} //References W3schools.com,. 'CSS Navigation Bar'. N.p., 2015. Web. 9 Dec. 2015.
+p{
+text-align:center;
+margin-left: 300px;
+margin-right: 300px;
+padding: 300px;
+}
